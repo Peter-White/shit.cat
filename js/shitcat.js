@@ -1,6 +1,6 @@
 var m = document.getElementById("shitcat");
 var c = m.style;
-var shitcats = ["http://i.imgur.com/Gy98CEc.jpg", "http://i.imgur.com/t2XZqTj.jpg"];
+var shitcats = ["http://i.imgur.com/Gy98CEc.jpg", "http://i.imgur.com/t2XZqTj.jpg", "http://i.imgur.com/knntFzQ.jpg"];
 c.backgroundImage = "url(" + shitcats[cat(0, shitcats.length)] + ")";
 c.backgroundPosition = "center center";
 c.backgroundRepeat = "no-repeat";
